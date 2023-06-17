@@ -1,4 +1,6 @@
-Hi there! I'm a student for server developer 
+# Hi there! I'm a student for server developer 
+
+안녕하세요! 
  ### CONTACT 
 <a href="https://www.instagram.com/hyunw9/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/rkdgsudnr32@naver.com-3FE669?style=flat-square&logo=gmail&logoColor=white"/>
@@ -12,4 +14,4 @@ Hi there! I'm a student for server developer
 <img src="https://img.shields.io/badge/git-F05032?style=flat-square&logo=git&logoColor=white"/><img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/><img src="https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white"/><img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/>
 
 
-### I love failure 
+> I love failure 
