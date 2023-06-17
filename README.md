@@ -1,5 +1,5 @@
-## Hi there! 
-## I'm a student for server developer HyeonUk Kang
+### Hi there! 
+### I'm a student for server developer HyeonUk Kang
 
 ### 안녕하세요! 서버 개발자를 위해 공부중인 강현욱입니다. 
 ### 다양한 도전에 관심이 있으며, 단단한 기초로 유연하게 사고하는 개발자를 목표로 두고 있습니다.
