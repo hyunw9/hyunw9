@@ -1,7 +1,6 @@
 ### Hi there! 
 
-
-                                                  ### CONTACT 
+ ### CONTACT 
 <a href="https://www.instagram.com/hyunw9/" target="_blank"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/rkdgsudnr32@naver.com-3FE669?style=flat-square&logo=gmail&logoColor=white"/>
 
