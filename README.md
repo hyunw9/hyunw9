@@ -1,5 +1,4 @@
-### Hi there! 
-
+### daily basis
  ### CONTACT 
 <img src="https://img.shields.io/badge/rkdgsudnr32@naver.com-3FE669?style=flat-square&logo=gmail&logoColor=white"/>
 
