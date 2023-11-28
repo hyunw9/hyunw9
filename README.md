@@ -1,6 +1,6 @@
 ### daily basis
  ### CONTACT 
-<img src="https://img.shields.io/badge/rkdgsudnr32@naver.com-3FE669?style=flat-square&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/rkdgsudnr32@gmail.com-3FE669?style=flat-square&logo=gmail&logoColor=white"/>
 
   
  ### STUDYING FOR 
