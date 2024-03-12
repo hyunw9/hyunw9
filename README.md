@@ -3,7 +3,7 @@
 <img src="https://img.shields.io/badge/rkdgsudnr32@gmail.com-3FE669?style=flat-square&logo=gmail&logoColor=white"/>
 
   
- ### STUDYING FOR 
+ ### Interests
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/><img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
  ### Tools
