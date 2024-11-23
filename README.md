@@ -1,4 +1,4 @@
-# 🌟 Daily Basis  
+#  Daily Basis  
 
 I’m a **Java/Kotlin Backend Engineer** specializing in **Spring Boot Framework** to create robust and scalable backend systems.
 
