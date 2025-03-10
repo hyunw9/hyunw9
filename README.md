@@ -1,6 +1,6 @@
 #  Daily Basis  
 
-**Java/Kotlin Backend Engineer** specializing in **Spring Boot Framework** to create robust and scalable backend systems.
+**Software Engineer** passionate in creating robust and scalable systems.
 
 ---
 
